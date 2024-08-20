@@ -1,6 +1,6 @@
 body{
     color:#fff;
-    background: linear-gradient(to right in oklch, rgb(80, 80, 244), #0ff);
+    background: linear-gradient(to right, #0ff, rgb(80, 80, 244));
     display: grid;
     place-items: center;
 }

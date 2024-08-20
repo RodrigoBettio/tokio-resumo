@@ -2,6 +2,13 @@
     color: rgb(9, 52, 181);
 }
 
+body{
+    color:#fff;
+    background: linear-gradient(to right,  #0ff, rgb(80, 80, 244));
+    display: grid;
+    place-items: center;
+}
+
 button {
     display: block;
     margin: 20px auto;

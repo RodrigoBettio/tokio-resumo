@@ -1,5 +1,12 @@
 .red-heading {
-    color: rgb(192, 10, 10);
+    color: rgb(0, 0, 0);
+}
+
+body{
+    color:#fff;
+    background: linear-gradient(to right,  rgb(248, 94, 94), rgb(255, 9, 9));
+    display: grid;
+    place-items: center;
 }
 
 button {
