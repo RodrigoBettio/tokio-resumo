@@ -1,0 +1,19 @@
+.blue-heading {
+    color: rgb(9, 52, 181);
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: rgb(9, 52, 181);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}

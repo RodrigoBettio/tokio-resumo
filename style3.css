@@ -1,0 +1,19 @@
+.red-heading {
+    color: rgb(192, 10, 10);
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: rgb(192, 10, 10);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+body{
+    color:#fff;
+    background: linear-gradient(to right in oklch, rgb(80, 80, 244), #0ff);
+    display: grid;
+    place-items: center;
+}
+h1 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 15px;
+    font-size: 24px;
+}
+
+
